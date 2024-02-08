@@ -18,12 +18,12 @@ The main objectives of this project are as follows:
 
 ## Main files
 
-- [`Electricity_Production_By_Source.csv`](electricity_production_Python/Electricity_Production_By_Source.csv): Main dataset containing information on electricity production.
-- [`Electricity_production_WW.ipynb`](electricity_production_Python/Electricity_production_WW.ipynb): Jupyter notebook with detailed steps of the analysis.
+- [`Electricity_Production_By_Source.csv`](Electricity_Production_By_Source.csv): Main dataset containing information on electricity production.
+- [`Electricity_production_WW.ipynb`](Electricity_production_WW.ipynb): Jupyter notebook with detailed steps of the analysis.
 
 ## Contributing
 If you find issues or have suggestions for improvements, feel free to let me know.
 
 ## License
-This project is licensed under the MIT License - see the [`LICENSE`](electricity_production_Python/LICENSE) file for details.
+This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
    
